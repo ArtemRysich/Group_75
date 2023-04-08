@@ -1,0 +1,15 @@
+li {
+  width: 300px;
+  outline: 1px solid tomato;
+}
+
+img {
+  width: 300px;
+}
+
+
+.modal{
+    width: 700px;
+    background-color: white;
+
+}
