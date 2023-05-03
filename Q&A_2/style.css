@@ -1,0 +1,11 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    font-size: 25px;
+    list-style: none;
+}
+
+.current{
+    color: red;
+}

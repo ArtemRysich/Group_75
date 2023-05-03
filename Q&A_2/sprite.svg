@@ -1,0 +1,9 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;"
+    version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <symbol id="icon-search" viewBox="0 0 32 32">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m15 15 6 6" />
+            <path stroke-width="2" d="M17 10a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z" />
+        </symbol>
+    </defs>
+</svg>
